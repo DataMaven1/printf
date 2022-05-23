@@ -1,6 +1,6 @@
 #include "main.h"
 
-/* Code Credit : Martins Akhivbareme & Bolatito Alaba */
+/* Code Credit : Qayyum & Uche */
 /**
  * _printf - prints anything
  * @format: the format string
